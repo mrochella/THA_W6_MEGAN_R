@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\bin\Debug\THA_W6_MEGAN_R.exe.config
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\bin\Debug\THA_W6_MEGAN_R.exe
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\bin\Debug\THA_W6_MEGAN_R.pdb
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.Form1.resources
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.Properties.Resources.resources
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.exe
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.pdb
+C:\Users\acer\source\repos\THA_W6_MEGAN_R\THA_W6_MEGAN_R\obj\Debug\THA_W6_MEGAN_R.Form2.resources
